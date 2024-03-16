@@ -7,6 +7,6 @@ intersection_x = (c * b) / (a + b)
 intersection_y = (c * a) / (a + b)
 
 # Calculate the distance from the origin to the intersection point
-radius_inner_circle = (intersection_x*2 + intersection_y)*0.5
+radius_inner_circle = (intersection_x**2 + intersection_y**2)*0.5
 
 print(f"The radius of the inner circle is approximately {radius_inner_circle:.4f}")
