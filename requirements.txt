@@ -1,0 +1,5 @@
+Requirements
+Python 3.x
+File Structure
+circle_radius_calculator.py: Contains the Python code for the circle radius calculator.
+README.md: This file, providing instructions on how to use the program.
