@@ -1,4 +1,4 @@
-Circle Radius Calculator
+#Circle Radius Calculator
 This simple program calculates the radius of a circle based on user-provided input.
 
 How to Use
